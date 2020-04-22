@@ -9,5 +9,35 @@
 #### Current version: 1.1.x [Stable]
 
 
+# Wiki
+
+for using this awesome library, you only need to add two things
+
+first:
+add this line of code to your Startup.cs
+
+
+```c#
+public void ConfigureServices(IServiceCollection services)
+{
+  //...
+  services.AddMadpay724GateWay();
+  //...
+}
+```
+
+Then inject in your class constrauctor :
+
+```c#
+public class Test
+{
+  private readonly IMadPayGateWay _gateWay;
+  public Test(IMadPayGateWay gateWay)
+  {
+    _gateWay=gateWay;
+  }
+```
+
+at the end use three method that provided (pay | verify | refund) :
 
 
