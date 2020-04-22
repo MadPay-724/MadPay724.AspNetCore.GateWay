@@ -1,0 +1,8 @@
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\bin\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.deps.json
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\bin\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.dll
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\bin\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.pdb
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.csproj.CoreCompileInputs.cache
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.AssemblyInfoInputs.cache
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.AssemblyInfo.cs
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.dll
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Release\netcoreapp2.0\MadPay724.AspNetCore.GateWay.pdb

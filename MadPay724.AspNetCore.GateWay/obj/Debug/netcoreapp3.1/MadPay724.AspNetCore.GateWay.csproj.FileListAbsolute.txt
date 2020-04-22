@@ -1,0 +1,8 @@
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\bin\Debug\netcoreapp3.1\MadPay724.AspNetCore.GateWay.exe
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Debug\netcoreapp3.1\MadPay724.AspNetCore.GateWay.csprojAssemblyReference.cache
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Debug\netcoreapp3.1\MadPay724.AspNetCore.GateWay.AssemblyInfoInputs.cache
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Debug\netcoreapp3.1\MadPay724.AspNetCore.GateWay.AssemblyInfo.cs
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\obj\Debug\netcoreapp3.1\MadPay724.AspNetCore.GateWay.csproj.CopyComplete
+D:\Code\Package\Asp\MadPay724.AspNetCore.GateWay\MadPay724.AspNetCore.GateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
